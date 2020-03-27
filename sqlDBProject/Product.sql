@@ -5,5 +5,6 @@
     [Cost] INT NULL, 
     [color] NVARCHAR(50) NULL, 
     [price] INT NULL, 
-    [size] NVARCHAR(50) NULL
+    [size] NVARCHAR(50) NULL, 
+    [wholesale] INT NULL
 )
